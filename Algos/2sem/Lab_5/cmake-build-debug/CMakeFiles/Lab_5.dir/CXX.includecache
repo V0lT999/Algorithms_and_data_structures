@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algos/2sem/Lab_5/Hash_Table.h
+set
+-
+random
+-
+time.h
+-
+string.h
+-
+vector
+-
+list
+-
+unordered_set
+-
+algorithm
+-
+
+D:/Algos/2sem/Lab_5/main.cpp
+iostream
+-
+Hash_Table.h
+D:/Algos/2sem/Lab_5/Hash_Table.h
+

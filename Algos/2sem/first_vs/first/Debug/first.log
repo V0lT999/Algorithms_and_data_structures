@@ -1,0 +1,24 @@
+﻿  shape.cpp
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::north" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(144): note:  см. объявление "rectangle::north"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::south" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(145): note:  см. объявление "rectangle::south"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::east" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(146): note:  см. объявление "rectangle::east"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::west" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(147): note:  см. объявление "rectangle::west"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::neast" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(148): note:  см. объявление "rectangle::neast"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::seast" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(149): note:  см. объявление "rectangle::seast"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::nwest" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(150): note:  см. объявление "rectangle::nwest"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::swest" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(151): note:  см. объявление "rectangle::swest"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::move" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(153): note:  см. объявление "rectangle::move"
+d:\algos\2sem\first_vs\first\shape.cpp(18): warning C4250: h_circle: наследуется "rectangle::rectangle::resize" через превосходство
+  d:\algos\2sem\first_vs\first\shape.h(170): note:  см. объявление "rectangle::resize"
+d:\algos\2sem\first_vs\first\shape.cpp(30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\algos\2sem\first_vs\first\shape.cpp(31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  first.vcxproj -> D:\Algos\2sem\first_vs\first\Debug\first.exe

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Algos/2sem/Lab_4/Tree.h
+iostream
+-
+random
+-
+string.h
+-
+
+D:/Algos/2sem/Lab_4/main.cpp
+iostream
+-
+Tree.h
+D:/Algos/2sem/Lab_4/Tree.h
+time.h
+-
+

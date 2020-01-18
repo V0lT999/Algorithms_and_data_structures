@@ -1,0 +1,3 @@
+﻿  lab_3.cpp
+d:\algos\2sem\3_lab\lab_3\lab_3.cpp(7): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_3.vcxproj -> D:\Algos\2sem\3_lab\lab_3\Debug\lab_3.exe
